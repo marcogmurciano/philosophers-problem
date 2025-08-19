@@ -1,0 +1,18 @@
+# Compiled objects
+*.o
+*.a
+*.so
+
+# Executables
+philo
+
+# IDE & Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
